@@ -22,7 +22,7 @@ html{
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 20%;
+  width: 40%;
 }
 
 .modal-head {
@@ -41,22 +41,10 @@ html{
   font-family: Abel;
 }
 
-.modal-title-left{
-  align-self: left;
-  font-family: Abel;
-}
-
 input {
   padding: 10px;
   outline: none;
   font-family: Abel;
-}
-
-.title-input-text {
-  padding: 10px;
-  outline: 1;
-  font-family: Abel;
-  background-color: rgb(195, 195, 195);
 }
 
 .label-text {
@@ -67,7 +55,6 @@ input {
 
 textarea{
   margin-top: 10px;
-  background-color: rgb(195, 195, 195);  
 }
 .create-btn{
   margin-top: 10px;
@@ -84,6 +71,6 @@ textarea{
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 70%;
-  height: 90%;
+  width: 80%;
+  height: 70%;
 }
