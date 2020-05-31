@@ -14,6 +14,7 @@
 </head>
 
 <body>
+    <!-- TODO: Include all your code for the header and home page here -->
    	<div id="main-container">
 		<div class="header">
 			<div class="scribbler-container">
