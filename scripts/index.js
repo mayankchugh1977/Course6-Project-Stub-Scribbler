@@ -17,3 +17,7 @@ function hideSignUpModal(){
   var modal = document.getElementById("signup-modal");
   modal.style.display = "none";
 }
+
+function openPostList(){
+  location.href = "html/postslist.html"
+}
