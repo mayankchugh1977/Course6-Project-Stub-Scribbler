@@ -24,3 +24,7 @@ var trashFunctions = function(numberOfPosts) {
 }
 
 trashFunctions(5);
+
+function navigateToPost() {
+    location.href = "post.html";
+}
